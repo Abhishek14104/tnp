@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558642668548",
+    "project_id": "tnp-cell-85c1f",
+    "storage_bucket": "tnp-cell-85c1f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558642668548:android:c8fe131cc6d0911a694151",
+        "android_client_info": {
+          "package_name": "com.example.tnp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYG4Pjz0zf7edCECviyOMlpWGUhHm1t5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
